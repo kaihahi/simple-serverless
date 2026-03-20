@@ -22,8 +22,7 @@ Terraform を使うことで、AWS リソースをコードとして管理し、
 
 ## 🏗 構成図
 
-https://github.com/kaihahi/simple-serverless/blob/main/architecture.png
-
+![architecture](./architecture.png)
 
 
 ---
