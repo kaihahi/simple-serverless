@@ -3,7 +3,7 @@ import boto3
 import uuid
 
 dynamodb = boto3.resource('dynamodb')
-table = dynamodb.Table('sample-table')
+table = dynamodb.Table('memo_table2')
 
 def lambda_handler(event, context):
     body = json.loads(event['body'])
